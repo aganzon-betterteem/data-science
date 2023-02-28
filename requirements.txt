@@ -9,3 +9,4 @@ shap==0.40.0
 matplotlib==3.5.1
 alibi==0.6.4
 xgboost
+openpyxl
